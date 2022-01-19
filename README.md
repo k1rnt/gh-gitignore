@@ -1,4 +1,5 @@
 # gh-gitignore
+This extension is [k1rnt/gitignore](https://github.com/k1rnt/gitignore) download command!
 
 ## Install
 ```
